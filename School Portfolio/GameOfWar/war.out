@@ -1,0 +1,88 @@
+Original Deck                 Shuffled Deck                 Player 1 Hand                 Player 2 Hand                 
+
+Ace of Spades                 2 of Diamonds                 10 of Spades                  2 of Diamonds                 
+2 of Spades                   10 of Spades                  3 of Clubs                    Jack of Spades                
+3 of Spades                   Jack of Spades                9 of Clubs                    6 of Spades                   
+4 of Spades                   3 of Clubs                    3 of Spades                   7 of Hearts                   
+5 of Spades                   6 of Spades                   10 of Clubs                   Queen of Spades               
+6 of Spades                   9 of Clubs                    2 of Hearts                   9 of Hearts                   
+7 of Spades                   7 of Hearts                   King of Clubs                 Queen of Clubs                
+8 of Spades                   3 of Spades                   4 of Hearts                   Jack of Hearts                
+9 of Spades                   Queen of Spades               Queen of Hearts               Jack of Clubs                 
+10 of Spades                  10 of Clubs                   4 of Spades                   3 of Hearts                   
+Jack of Spades                9 of Hearts                   5 of Hearts                   5 of Spades                   
+Queen of Spades               2 of Hearts                   9 of Spades                   4 of Diamonds                 
+King of Spades                Queen of Clubs                Ace of Diamonds               4 of Clubs                    
+Ace of Hearts                 King of Clubs                 King of Diamonds              5 of Clubs                    
+2 of Hearts                   Jack of Hearts                8 of Hearts                   King of Hearts                
+3 of Hearts                   4 of Hearts                   2 of Spades                   5 of Diamonds                 
+4 of Hearts                   Jack of Clubs                 Ace of Clubs                  3 of Diamonds                 
+5 of Hearts                   Queen of Hearts               6 of Diamonds                 King of Spades                
+6 of Hearts                   3 of Hearts                   Ace of Hearts                 8 of Diamonds                 
+7 of Hearts                   4 of Spades                   7 of Diamonds                 Jack of Diamonds              
+8 of Hearts                   5 of Spades                   9 of Diamonds                 6 of Clubs                    
+9 of Hearts                   5 of Hearts                   8 of Clubs                    Ace of Spades                 
+10 of Hearts                  4 of Diamonds                 10 of Hearts                  6 of Hearts                   
+Jack of Hearts                9 of Spades                   8 of Spades                   7 of Spades                   
+Queen of Hearts               4 of Clubs                    10 of Diamonds                7 of Clubs                    
+King of Hearts                Ace of Diamonds               Queen of Diamonds             2 of Clubs                    
+Ace of Clubs                  5 of Clubs                    
+2 of Clubs                    King of Diamonds              
+3 of Clubs                    King of Hearts                
+4 of Clubs                    8 of Hearts                   
+5 of Clubs                    5 of Diamonds                 
+6 of Clubs                    2 of Spades                   
+7 of Clubs                    3 of Diamonds                 
+8 of Clubs                    Ace of Clubs                  
+9 of Clubs                    King of Spades                
+10 of Clubs                   6 of Diamonds                 
+Jack of Clubs                 8 of Diamonds                 
+Queen of Clubs                Ace of Hearts                 
+King of Clubs                 Jack of Diamonds              
+Ace of Diamonds               7 of Diamonds                 
+2 of Diamonds                 6 of Clubs                    
+3 of Diamonds                 9 of Diamonds                 
+4 of Diamonds                 Ace of Spades                 
+5 of Diamonds                 8 of Clubs                    
+6 of Diamonds                 6 of Hearts                   
+7 of Diamonds                 10 of Hearts                  
+8 of Diamonds                 7 of Spades                   
+9 of Diamonds                 8 of Spades                   
+10 of Diamonds                7 of Clubs                    
+Jack of Diamonds              10 of Diamonds                
+Queen of Diamonds             2 of Clubs                    
+King of Diamonds              Queen of Diamonds             
+
+
+Player 1 plays:               Player 2 plays:               Winner:                       Player 1 Count:               Player 2 Count:               
+
+10 of Spades                  2 of Diamonds                 Player 1                      2                             0                             
+3 of Clubs                    Jack of Spades                Player 2                      2                             2                             
+9 of Clubs                    6 of Spades                   Player 1                      4                             2                             
+3 of Spades                   7 of Hearts                   Player 2                      4                             4                             
+10 of Clubs                   Queen of Spades               Player 2                      4                             6                             
+2 of Hearts                   9 of Hearts                   Player 2                      4                             8                             
+King of Clubs                 Queen of Clubs                Player 1                      6                             8                             
+4 of Hearts                   Jack of Hearts                Player 2                      6                             10                            
+Queen of Hearts               Jack of Clubs                 Player 1                      8                             10                            
+4 of Spades                   3 of Hearts                   Player 1                      10                            10                            
+5 of Hearts                   5 of Spades                   WAR!!!                        
+9 of Spades                   4 of Diamonds                 Player 1                      14                            10                            
+Ace of Diamonds               4 of Clubs                    Player 2                      14                            12                            
+King of Diamonds              5 of Clubs                    Player 1                      16                            12                            
+8 of Hearts                   King of Hearts                Player 2                      16                            14                            
+2 of Spades                   5 of Diamonds                 Player 2                      16                            16                            
+Ace of Clubs                  3 of Diamonds                 Player 2                      16                            18                            
+6 of Diamonds                 King of Spades                Player 2                      16                            20                            
+Ace of Hearts                 8 of Diamonds                 Player 2                      16                            22                            
+7 of Diamonds                 Jack of Diamonds              Player 2                      16                            24                            
+9 of Diamonds                 6 of Clubs                    Player 1                      18                            24                            
+8 of Clubs                    Ace of Spades                 Player 1                      20                            24                            
+10 of Hearts                  6 of Hearts                   Player 1                      22                            24                            
+8 of Spades                   7 of Spades                   Player 1                      24                            24                            
+10 of Diamonds                7 of Clubs                    Player 1                      26                            24                            
+Queen of Diamonds             2 of Clubs                    Player 1                      28                            24                            
+
+
+Game Winner:                  Player 1 Count:               Player 2 Count:               
+Player 1                      28                            24                            

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="600.0" maxWidth="500.0" minHeight="600.0" minWidth="500.0" prefHeight="600.0" prefWidth="500.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="realEstate.MainController">
+   <children>
+      <Button layoutX="222.0" layoutY="555.0" mnemonicParsing="false" onAction="#reset" text="Reset">
+         <font>
+            <Font size="16.0" />
+         </font></Button>
+      <Button alignment="CENTER" defaultButton="true" layoutX="25.0" layoutY="504.0" mnemonicParsing="false" onAction="#calculate" text="Find my dream house!">
+         <font>
+            <Font size="16.0" />
+         </font></Button>
+      <Button fx:id="notMyDream" alignment="CENTER" disable="true" layoutX="224.0" layoutY="504.0" mnemonicParsing="false" onAction="#findNext" text="Not my dream - Find me another!">
+         <font>
+            <Font size="16.0" />
+         </font></Button>
+      <TextField fx:id="minPriceField" layoutX="233.0" layoutY="79.0" />
+      <Label layoutX="142.0" layoutY="25.0" text="Real Estate Listings">
+         <font>
+            <Font name="System Bold" size="24.0" />
+         </font>
+      </Label>
+      <TextField fx:id="maxPriceField" layoutX="233.0" layoutY="122.0" />
+      <TextField fx:id="minAreaField" layoutX="233.0" layoutY="165.0" />
+      <TextField fx:id="maxAreaField" layoutX="233.0" layoutY="209.0" />
+      <TextField fx:id="minBedsField" layoutX="233.0" layoutY="251.0" />
+      <TextField fx:id="maxBedsField" layoutX="233.0" layoutY="294.0" />
+      <Label layoutX="97.0" layoutY="81.0" text="Minimum Price:" textAlignment="RIGHT">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="97.0" layoutY="124.0" text="Maximum Price:" textAlignment="RIGHT">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="97.0" layoutY="167.0" text="Minimum Area:" textAlignment="RIGHT">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="97.0" layoutY="253.0" text="Minimum Beds:" textAlignment="RIGHT">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="97.0" layoutY="211.0" text="Maximum Area:" textAlignment="RIGHT">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="97.0" layoutY="296.0" text="Maximum Beds:" textAlignment="RIGHT">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="25.0" layoutY="395.0" text="Chosen Home:">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <TextField fx:id="outputField" editable="false" layoutX="151.0" layoutY="393.0" prefHeight="31.0" prefWidth="318.0" />
+      <Label fx:id="errorField" alignment="CENTER" layoutX="54.0" layoutY="450.0" prefHeight="31.0" prefWidth="394.0" text="No error" textAlignment="CENTER" textFill="RED" visible="false">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
